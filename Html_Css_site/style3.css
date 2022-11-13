@@ -4,8 +4,6 @@ body {
     margin: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    max-height: auto;
-    max-width: auto;    
     }
 
     .navbar{
@@ -38,8 +36,5 @@ body {
         margin-top: -5%;
     }
 
-    .logo_texte{
-        width: -5px;
-    }
 
 
